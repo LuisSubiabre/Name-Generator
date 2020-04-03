@@ -1,7 +1,8 @@
 # name_generator
 
 A simple Flutter project.
-(https://github.com/LuisSubiabre/Name-Generator/blob/master/assets/screen.gif)
+
+ ![alt text](https://github.com/LuisSubiabre/Name-Generator/blob/master/assets/screen.gif)
 
 ## Getting Started
 
